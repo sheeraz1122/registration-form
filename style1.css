@@ -1,0 +1,153 @@
+h1 {
+    color: #7733ff;
+    text-decoration-line: underline;
+}
+h3{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkorange;
+    margin-right: auto;
+    margin-left: auto;
+    width: fit-content;    
+  
+}
+
+fieldset {
+    background-color: #7733ff;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: large;
+
+
+}
+
+.firstname {
+    margin-left: 11mm;
+
+}
+
+.lastname {
+    margin-left: 11.5mm;
+}
+
+.dateofbrith{
+
+    margin: 0mm;
+}
+.email{
+    margin-left: 19.8mm;
+}
+.male{
+    margin-left: 16mm;
+}
+.Adress{
+    margin-left: 16mm;
+}
+.city{
+    margin-left: 21mm;
+}
+
+.pin{
+    margin-left: 11mm;
+}
+.state{
+    margin-left: 19mm;
+}
+.country{
+    margin-left: 13mm;
+}
+.drawing{
+    margin-left: 11mm;
+}
+.others{
+    margin-left: 28mm;
+}
+.SlNoExamanition{
+    margin-left: 30mm;
+}
+.board{
+    margin-left: 30mm;
+}
+.boardl{
+    margin-left: 42mm;
+}
+.per{
+    margin-left: 27mm;
+}
+.passing{
+    margin-left: 25mm;
+}
+.one{
+    margin-left: 10mm;
+}
+.X{
+    margin-left: 10.1mm;
+}
+.two{
+    margin-left: 36mm;
+}
+.XII{
+    margin-left: 10mm;
+}
+.inter{
+    margin-left: 27.2mm;
+}
+.three{
+    margin-left: 36mm;
+}
+.Graduation{
+    margin-left: 10mm;
+}
+.Grad{
+    margin-left: 23.9mm;
+}
+.four{
+    margin-left: 36mm;
+}
+.Masters{
+    margin-left: 10mm;
+}
+.mast{
+    margin-left: 30.4mm;
+}
+.char{
+    margin-left: 105mm;
+}
+.decimal{
+    margin-left: 13mm;
+}
+.bca{
+    margin-left: 11mm;
+}
+.submit{
+    width: 150px;
+    height: 30px;
+    background-color: lightslategrey;
+}
+.reset{
+    width: 150px;
+    height: 30px;
+    background-color: lightslategrey;
+}
+.dateofbrith{
+    margin-left: 5mm;
+}
+
+
+a {
+color: #7733ff;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: rgba(231, 97, 20, 0.877);
+    border-radius: 60px;
+    width:30px;
+    height:70px;
+    
+}  
+
